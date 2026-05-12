@@ -1,7 +1,7 @@
 # Video Game Sales Geolocation Heatmap
 
 ## Overview
-This project visualizes global video game sales using the Kaggle "Video Game Sales" dataset. It shows how video game popularity varies across different regions using an interactive heatmap.
+This small project visualizes global video game sales using the Kaggle "Video Game Sales" dataset. It shows how video game popularity varies across different regions using an interactive heatmap.
 
 Dataset: https://www.kaggle.com/datasets/gregorut/videogamesales
 
